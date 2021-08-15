@@ -1,0 +1,11 @@
+{
+  "hosting": {
+  "site": "blockapi-docs",
+    "public": ".",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}
